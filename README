@@ -1,1 +1,607 @@
 This table was part of a report consisting of many similar tables that I designed while working as a contractor for a Health and Human Services 508 compliance website project. The original table was in a graphic format. All of the information had to be duplicated,reformatted and then rearranged into an understandable structure. A determination had to be made as to which columns were to be presented as headers, due to the existance of mutiple columms and the type of information and data. It was finally decided to create multiple columns in 508 compliance table header format, and present the information with three column headers, with multiple column headers nested within, so that the 508 compliance software,(JAWS), would recognize these columns in a way that would make the information more understandable to the public. This took strong commitment and determination, and an ability to shift perception from the way the table was originally submitted in graphic form. This project made me aware of the  persistance took to create over twenty tables,(most from graphics), in addition to converting all the other elements in the report to create a 508 compliant document. 
+
+<TABLE BORDER="1" CELLSPACING="0" CELLPADDING="0"> 
+		<CAPTION> <STRONG><A NAME="t416" ID="t416"></A>Table 4-16. Utilization
+		  <A HREF="#n1t4-16">note1</A> and Payment, by Claim Type, by DRG and APR-DRG
+		  Severity Index, for Live Discharges, 2005</STRONG> </CAPTION> 
+		<TR> 
+		  <TD ROWSPAN="2" COLSPAN="2" NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="center"> &nbsp;</P></TD> 
+		  <TH COLSPAN="16" NOWRAP="nowrap" VALIGN="bottom">APR-DRG Severity of
+			 Illness Level</TH> 
+		</TR> 
+		<TR> 
+		  <TH COLSPAN="4" SCOPE="col">APR-DRG 1</TH> 
+		  <TH COLSPAN="4" SCOPE="col">APR-DRG 2</TH> 
+		  <TH COLSPAN="4" SCOPE="col">APR-DRG 3</TH> 
+		  <TH COLSPAN="4" SCOPE="col">APR-DRG 4</TH> 
+		</TR> 
+		<TR> 
+		  <TH SCOPE="col">DRG</TH> 
+		  <TH SCOPE="col">&nbsp;</TH> 
+		  <TH SCOPE="col">N</TH> 
+		  <TH SCOPE="col">% <BR> with Claim</TH> 
+		  <TH SCOPE="col">Mean<BR> Use</TH> 
+		  <TH SCOPE="col">Mean <BR> Payment</TH> 
+		  <TH SCOPE="col">N</TH> 
+		  <TH SCOPE="col">% <BR> with Claim</TH> 
+		  <TH SCOPE="col">Mean<BR> Use</TH> 
+		  <TH SCOPE="col">Mean <BR> Payment</TH> 
+		  <TH SCOPE="col">N</TH> 
+		  <TH SCOPE="col">% <BR> with Claim</TH> 
+		  <TH SCOPE="col">Mean<BR> Use</TH> 
+		  <TH SCOPE="col">Mean <BR> Payment</TH> 
+		  <TH SCOPE="col">N</TH> 
+		  <TH SCOPE="col">% <BR> with Claim</TH> 
+		  <TH SCOPE="col">Mean<BR> Use</TH> 
+		  <TH SCOPE="col">Mean <BR> Payment</TH> 
+		</TR> 
+		<TR> 
+		  <TH ROWSPAN="8" SCOPE="row">209<BR> <STRONG>Major Joint and Limb
+			 Reattachment Procedures of Lower Extremity (N=12,970)</STRONG><BR> </TH> 
+		  <TD>Total Episode Days<BR> (Index Admission Days + PAC days)</TD> 
+		  <TD VALIGN="bottom"> 
+			 <P ALIGN="right"> 4,133</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> 31.9 <BR> <A HREF="#n1at4-16">note1a</A></P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> 59.0</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> $18,288</P></TD> 
+		  <TD VALIGN="bottom"> 
+			 <P ALIGN="right"> 5,999</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> 46.3<A HREF="#n1at4-16"><BR> note1a</A></P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> 64.9</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> $21,428</P></TD> 
+		  <TD VALIGN="bottom"> 
+			 <P ALIGN="right"> 2,726</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> 21.0<A HREF="#n1at4-16"><BR> note1a</A></P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> 70.0</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> $23,925</P></TD> 
+		  <TD VALIGN="bottom"> 
+			 <P ALIGN="right"> 112</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> 0.9<BR> <A HREF="#n1at4-16">note1a</A></P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> 95.4</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> $36,628</P></TD> 
+		</TR> 
+		<TR> 
+		  <TD VALIGN="bottom">Index Admission (Days)</TD> 
+		  <TD VALIGN="bottom"> 
+			 <P ALIGN="right"> 4,133</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> 100.0</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> 3.7</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> $10,214</P></TD> 
+		  <TD VALIGN="bottom"> 
+			 <P ALIGN="right"> 5,999</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> 100.0</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> 4.2</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> $10,506</P></TD> 
+		  <TD VALIGN="bottom"> 
+			 <P ALIGN="right"> 2,726</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> 100.0</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> 5.1</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> $10,623</P></TD> 
+		  <TD VALIGN="bottom"> 
+			 <P ALIGN="right"> 112</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> 100.0</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> 12.8</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> $15,078</P></TD> 
+		</TR> 
+		<TR> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom">Home Health (Visits)</TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> 2,724</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> 65.9</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> 16.6</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> $3,341</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> 4,046</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> 67.4</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> 17.7</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> $3,442</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> 1,914</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> 70.2</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> 20.0</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> $3,648</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> 62</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> 55.4</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> 29.0</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> $4,945</P></TD> 
+		</TR> 
+		<TR> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom">IRF (Days)</TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> 965</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> 23.3</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> 9.3</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> $10,128</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> 1,638</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> 27.3</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> 10.6</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> $11,352</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> 806</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> 29.6</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> 11.6</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> $12,299</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> 31</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> 27.7</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> 16.4</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> $14,834</P></TD> 
+		</TR> 
+		<TR> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom">LTCH (Days)</TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> 13</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> 0.3</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> 26.1</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> $26,425</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> 39</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> 0.7</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> 30.0</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> $30,207</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> 41</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> 1.5</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> 28.8</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> $29,218</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> 8</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> 7.1</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> 45.1</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> $57,427</P></TD> 
+		</TR> 
+		<TR> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom">Hospital Outpatient Therapy
+			 (Services)</TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> 1,827</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> 44.2</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> 49.9</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> $1,074</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> 2,151</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> 35.9</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> 50.6</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> $1,123</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> 709</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> 26.0</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> 46.0</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> $1,131</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> 29</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> 25.9</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> 52.0</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> $1,381</P></TD> 
+		</TR> 
+		<TR> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom">SNF (Days)</TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> 1,218</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> 29.5</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> 18.1</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> $6,025</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> 2,422</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> 40.4</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> 24.1</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> $7,656</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> 1,252</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> 45.9</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> 25.8</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> $8,152</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> 67</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> 59.8</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> 34.9</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> $10,492</P></TD> 
+		</TR> 
+		<TR> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom">Acute Readmission (Days)</TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> 426</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> 10.3</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> 6.4</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> $11,386</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> 971</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> 16.2</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> 7.3</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> $11,193</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> 538</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> 19.7</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> 9.7</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> $13,308</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> 39</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> 34.8</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> 10.7</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> $11,406</P></TD> 
+		</TR> 
+		<TR> 
+		  <TH ROWSPAN="8" SCOPE="row">089 Simple Pneumonia &amp; Pleurisy <BR>
+			 Age &gt;17 w CC (N=5,441)</TH> 
+		  <TD VALIGN="bottom">Total Episode Days<BR> (Index Admission Days + PAC
+			 days)</TD> 
+		  <TD VALIGN="bottom"> 
+			 <P ALIGN="right"> 83</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> <STRONG>1.5<BR> <A
+				HREF="#n1at4-16">note1a</A></STRONG></P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> <STRONG>71.0</STRONG></P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> <STRONG>$15,388</STRONG></P></TD> 
+		  <TD VALIGN="bottom"> 
+			 <P ALIGN="right"> 2,712</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> 49.8<BR> <A HREF="#n1at4-16">note1a</A></P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> 67.6</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> $16,551</P></TD> 
+		  <TD VALIGN="bottom"> 
+			 <P ALIGN="right"> 2,467</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> 45.3<BR> <A HREF="#n1at4-16">note1a</A></P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> 75.5</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> $18,727</P></TD> 
+		  <TD VALIGN="bottom"> 
+			 <P ALIGN="right"> 179</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> 3.3<A HREF="#n1at4-16"><BR> note1a</A></P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> 77.3</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> $21,726</P></TD> 
+		</TR> 
+		<TR> 
+		  <TD VALIGN="bottom">Index Admission (Days)</TD> 
+		  <TD VALIGN="bottom"> 
+			 <P ALIGN="right"> 83</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> <STRONG>100.0</STRONG></P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> <STRONG>5.3</STRONG></P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> <STRONG>$4,927</STRONG></P></TD> 
+		  <TD VALIGN="bottom"> 
+			 <P ALIGN="right"> 2,712</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> 100.0</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> 5.5</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> $4,886</P></TD> 
+		  <TD VALIGN="bottom"> 
+			 <P ALIGN="right"> 2,467</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> 100.0</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> 7.1</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> $5,139</P></TD> 
+		  <TD VALIGN="bottom"> 
+			 <P ALIGN="right"> 179</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> 100.0</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> 10.3</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> $5,462</P></TD> 
+		</TR> 
+		<TR> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom">Home Health (Visits)</TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> 49</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> <STRONG>59.0</STRONG></P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> <STRONG>24.3</STRONG></P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> <STRONG>$2,909</STRONG></P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> 1,424</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> 52.5</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> 23.2</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> $3,225</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> 1,219</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> 49.4</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> 27.5</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> $3,666</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> 89</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> 49.7</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> 25.1</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> $3,693</P></TD> 
+		</TR> 
+		<TR> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom">IRF (Days)</TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> 2</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> <STRONG>2.4</STRONG></P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> <STRONG>25.0</STRONG></P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> <STRONG>$22,838</STRONG></P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> 99</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> 3.7</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> 15.1</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> $15,824</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> 79</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> 3.2</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> 14.8</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> $16,785</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> 8</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> 4.5</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> 14.1</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> $19,031</P></TD> 
+		</TR> 
+		<TR> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom">LTCH (Days)</TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> 0</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> <STRONG>0.0</STRONG></P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> <STRONG>-</STRONG></P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> <STRONG>-</STRONG></P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> 44</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> 1.6</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> 26.0</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> $30,721</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> 57</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> 2.3</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> 28.9</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> $36,796</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> 11</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> 6.1</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> 27.2</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> $28,852</P></TD> 
+		</TR> 
+		<TR> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom">Hospital Outpatient Therapy
+			 (Services)</TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> 11</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> <STRONG>13.3</STRONG></P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> <STRONG>19.6</STRONG></P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> <STRONG>$678</STRONG></P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> 476</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> 17.6</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> 34.3</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> $1,007</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> 374</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> 15.2</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> 44.0</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> $1,447</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> 24</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> 13.4</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> 30.1</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> $1,206</P></TD> 
+		</TR> 
+		<TR> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom">SNF (Days)</TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> 45</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> <STRONG>54.2</STRONG></P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> <STRONG>34.2</STRONG></P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> <STRONG>$9,186</STRONG></P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> 1,412</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> 52.1</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> 34.7</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> $9,376</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> 1,459</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> 59.1</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> 35.9</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> $9,688</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> 102</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> 57.0</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> 33.0</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> $9,190</P></TD> 
+		</TR> 
+		<TR> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom">Acute Readmission (Days)</TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> 21</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> <STRONG>25.3</STRONG></P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> <STRONG>7.9</STRONG></P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> <STRONG>$12,343</STRONG></P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> 789</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> 29.1</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> 10.8</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> $13,192</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> 836</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> 33.9</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> 11.0</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> $13,102</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> 77</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> 43.0</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> 12.0</P></TD> 
+		  <TD NOWRAP="nowrap" VALIGN="bottom"> 
+			 <P ALIGN="right"> $14,889</P></TD> 
+		</TR> 
+	 </TABLE> 
