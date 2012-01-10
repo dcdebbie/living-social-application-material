@@ -1,15 +1,17 @@
 This table was part of a report consisting of many similar tables that I designed while working
 as a contractor for a Health and Human Services 508 compliance website project. The original 
-table was in a graphic format. All of the information had to be duplicated,reformatted and then rearranged into an understandable structure. A determination had to be made as to which columns were to be presented
- as headers, due to the existance of mutiple columms and the type of information and data. It was
- finally decided to create multiple columns in 508 compliance table header format, and present 
+table was in a graphic format. All of the information had to be duplicated,reformatted and then
+rearranged into an understandable structure. A determination had to be made as to which columns
+were to be presented
+as headers, due to the existance of mutiple columms and the type of information and data. It was
+finally decided to create multiple columns in 508 compliance table header format, and present 
 the information with three column headers, with multiple column headers nested within, so that 
 the 508 compliance software,(JAWS), would recognize these columns in a way that would make the 
 information more understandable to the public. This took strong commitment and determination, 
 and an ability to shift perception from the way the table was originally submitted in graphic 
 form. This project made me aware of the  persistance took to create over twenty tables,
 (most from graphics), in addition to converting all the other elements in the report to
- create a 508 compliant document. 
+create a 508 compliant document. 
 
 <TABLE BORDER="1" CELLSPACING="0" CELLPADDING="0"> 
 		<CAPTION> <STRONG><A NAME="t416" ID="t416"></A>Table 4-16. Utilization
